@@ -8,7 +8,7 @@ L'évaluation se fera principalement sur **la qualité du code**. Il est demand�
 
 ## Préparation :
 
-- Ouvrir le projet sous Unity.
+- Ouvrir le projet sous Unity (quelque soit la version)
 - Ouvrir la scène **Main**.
 - Noter les ressources graphiques disponibles dans le dossier **Sprites**. En apprécier la qualité.
 - Configurer la resolution en un format **16:9** (par exemple 1920x1080).
