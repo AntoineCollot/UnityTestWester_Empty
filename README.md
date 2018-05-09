@@ -33,6 +33,7 @@ Pour cela, vous pouvez par exemple :
 - Rajouter des effets sonores.
 - Rajouter des animations.
 - Implementer un système de duel interactif (mini game).
+
 etc.
 
 Vous pouvez utiliser pour ceci les objets inutilisés de la scène, les sprites non utilisés, ou toutes autres ressources externes de votre choix (dans ce cas en procurer la source lors du rendu).
