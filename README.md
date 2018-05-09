@@ -4,7 +4,7 @@ Durée : 3h
 
 ## Evaluation :
 
-L'évaluation se fera principalement sur la qualité du code. Il est demandé d'implementer l'objectif principal en trouvant un **juste milieu entre efficacité et propreté**. Un code de l'objectif principal bien structuré devrait rendre l'ajout des eventuels objectifs secondaires aisé.
+L'évaluation se fera principalement sur **la qualité du code**. Il est demandé d'implementer l'objectif principal en trouvant un **juste milieu entre efficacité et propreté**. Un code de l'objectif principal bien structuré devrait rendre l'ajout des eventuels objectifs secondaires aisé.
 
 ## Préparation :
 
