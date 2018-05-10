@@ -19,7 +19,7 @@ L'évaluation se fera principalement sur **la qualité du code**. Il est demand�
 - Permettre a l'utilisateur de **les déposer sur un cactus** pour les lui donner.
 - Permettre a un **shérif** (étoile + revolver) et un **bandit** (revolver+chapeau) d'engager un **duel** (simple animation).
 
- ## Exemple :
+ ### Exemple :
  
 ![alt text](https://github.com/AntoineCollot/UnityTestWester_Empty/blob/master/Demo.gif "Demo")
 
