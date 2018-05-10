@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: dc3454b52bd577947b6ad117550ce562
+timeCreated: 1525973704
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Breakfast And Chill DEMO
+  fontNames:
+  - Breakfast And Chill DEMO
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

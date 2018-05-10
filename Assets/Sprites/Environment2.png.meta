@@ -1,15 +1,17 @@
 fileFormatVersion: 2
-guid: b8cd4ad67408b0f4982988bcaaa3ad26
-timeCreated: 1525977826
+guid: 993783ee1a4ba4a41b509e2d3e60942e
+timeCreated: 1525978114
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Cards_0
-    21300002: Cards_4
-    21300004: Cards_2
-    21300006: Cards_3
-    21300008: Cards_Figure
-    21300010: Cards_Back
+    21300000: Environment2_Coffin
+    21300002: Environment2_BlackDot
+    21300004: Environment2_BirdStand
+    21300006: Environment2_Fly1
+    21300008: Environment2_Fly2
+    21300010: Environment2_MoneyBag1
+    21300012: Environment2_MoneyBag2
+    21300014: Environment2_Cigar
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -42,7 +44,7 @@ TextureImporter:
     mipBias: -1
     wrapU: 1
     wrapV: 1
-    wrapW: -1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -98,89 +100,112 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Cards_0
+      name: Environment2_Coffin
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 128
-        height: 170
+        x: 437
+        y: 4
+        width: 578
+        height: 289
       alignment: 9
-      pivot: {x: 0.4717813, y: 0.49468827}
+      pivot: {x: 0.60367817, y: 0.22429192}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Cards_4
+      name: Environment2_BirdStand
       rect:
         serializedVersion: 2
-        x: 128
-        y: 0
-        width: 128
-        height: 170
+        x: 22
+        y: 12
+        width: 258
+        height: 189
       alignment: 9
-      pivot: {x: 0.47530866, y: 0.5398382}
+      pivot: {x: 0.51816684, y: 0.5557982}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Cards_2
+      name: Environment2_Fly1
       rect:
         serializedVersion: 2
-        x: 256
-        y: 0
-        width: 128
-        height: 170
+        x: 17
+        y: 220
+        width: 209
+        height: 207
       alignment: 9
-      pivot: {x: 0.48236322, y: 0.48672062}
+      pivot: {x: 0.6177365, y: 0.4377325}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Cards_3
+      name: Environment2_Fly2
       rect:
         serializedVersion: 2
-        x: 384
-        y: 0
-        width: 128
-        height: 170
-      alignment: 9
-      pivot: {x: 0.4470899, y: 0.48672062}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Cards_Figure
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 0
-        width: 128
-        height: 170
-      alignment: 9
-      pivot: {x: 0.5176368, y: 0.50000006}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Cards_Back
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 0
-        width: 128
-        height: 170
+        x: 19
+        y: 440
+        width: 166
+        height: 242
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Environment2_MoneyBag1
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 326
+        width: 232
+        height: 259
+      alignment: 9
+      pivot: {x: 0.4494934, y: 0.029486815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Environment2_MoneyBag2
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 317
+        width: 294
+        height: 237
+      alignment: 9
+      pivot: {x: 0.38840407, y: 0.035251796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Environment2_Cigar
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 584
+        width: 226
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

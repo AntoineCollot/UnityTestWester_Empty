@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 510e9c6f053297a47b4b918101b05351
+timeCreated: 1525973704
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CoalhandLukeTRIAL
+  fontNames:
+  - CoalhandLukeTRIAL
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

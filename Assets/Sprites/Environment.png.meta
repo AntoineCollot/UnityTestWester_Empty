@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 60e9d4b8a1340a34db5b36658bab5341
-timeCreated: 1525899047
+timeCreated: 1525973486
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -16,8 +16,9 @@ TextureImporter:
     21300018: Environment_Apple
     21300020: Environment_Gun
     21300022: Environment_Biere
-    21300024: Environment_Dust
+    21300024: Environment_Tumbleweed
     21300026: Environment_Saloon
+    21300028: Environment_Bang
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -278,7 +279,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Environment_Dust
+      name: Environment_Tumbleweed
       rect:
         serializedVersion: 2
         x: 206
@@ -301,6 +302,20 @@ TextureImporter:
         height: 218
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Environment_Bang
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 13
+        width: 473
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
