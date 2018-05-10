@@ -4,7 +4,7 @@ Durée : 3h
 
 ## Evaluation :
 
-L'évaluation se fera principalement sur **la qualité du code**. Il est demandé d'implementer l'objectif principal en trouvant un **juste milieu entre efficacité et propreté**. Un code de l'objectif principal bien structuré devrait rendre l'ajout des eventuels objectifs secondaires aisé.
+L'évaluation se fera principalement sur **la qualité du code**. Il est demandé d'implementer l'objectif principal en trouvant un **juste milieu entre efficacité et propreté**. Un code de l'objectif principal bien structuré devrait rendre l'ajout des éventuels objectifs secondaires aisé.
 
 ## Préparation :
 
@@ -16,8 +16,8 @@ L'évaluation se fera principalement sur **la qualité du code**. Il est demand�
 ## Objectif Principal :
 
 - Rendre les **chapeaux, revolvers et l'étoile du shérif** sensibles au **drag & drop** (glisser déposer).
-- Permettre a l'utilisateur de **les déposer sur un cactus** pour les lui donner.
-- Permettre a un **shérif** (étoile + revolver) et un **bandit** (revolver+chapeau) d'engager un **duel** (simple animation).
+- Permettre a l'utilisateur de **les déposer (drop) sur un cactus** pour les lui équiper.
+- Permettre a un **shérif** (étoile + revolver) et un **bandit** (revolver + chapeau) d'engager un **duel** (simple animation).
 
  ### Exemple :
  
@@ -28,7 +28,7 @@ L'évaluation se fera principalement sur **la qualité du code**. Il est demand�
 Rendre la scène **plus vivante** et **plus interactive**.
 Pour cela, vous pouvez par exemple :
 
-- Rendre d'autres objets utilisables par les cactus.
+- Rendre d'autres objets equipables/utilisables par les cactus.
 - Rajouter des feedbacks, c'est à dire des effets lors du passage de la souri sur un objet ou lors d'autres actions.
 - Rajouter des animations.
 - Implementer un système de duel interactif (mini game).
