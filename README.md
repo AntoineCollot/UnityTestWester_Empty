@@ -25,12 +25,11 @@ L'évaluation se fera principalement sur **la qualité du code**. Il est demand�
 
 ## Objectif Secondaire :
 
-Rendre la scène **plus vivante**, ou plus globalement améliorer **l'éxpérience utilisateur**.
+Rendre la scène **plus vivante** et **plus interactive**.
 Pour cela, vous pouvez par exemple :
 
 - Rendre d'autres objets utilisables par les cactus.
 - Rajouter des feedbacks, c'est à dire des effets lors du passage de la souri sur un objet ou lors d'autres actions.
-- Rajouter des effets sonores.
 - Rajouter des animations.
 - Implementer un système de duel interactif (mini game).
 
