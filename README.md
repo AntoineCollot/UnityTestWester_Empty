@@ -41,9 +41,9 @@ Vous pouvez utiliser pour ceci les objets inutilisés de la scène et les sprite
 
 ## Rendu :
 
-###Requis :
+### Requis :
 - **Les sources** (Uniquement les dossier *Assets* et *ProjectSettings* du projet Unity suffisent).
 
-###Appréciable (peuvent être rendu après le temps imparti):
+### Appréciable (peuvent être rendu après le temps imparti):
 - **Un build** pour windows en 64 bit.
 - Un gif ou video (tel que l'exemple ci-dessus) présentant les features du projet (Si besoin d'un logiciel pour générer des gif : http://www.screentogif.com/?l=fr_fr)
