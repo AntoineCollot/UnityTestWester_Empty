@@ -6,6 +6,8 @@ Durée : 3h
 
 L'évaluation se fera principalement sur **la qualité du code**. Il est demandé d'implementer l'objectif principal en trouvant un **juste milieu entre efficacité et propreté**. Un code de l'objectif principal bien structuré devrait rendre l'ajout des éventuels objectifs secondaires aisé.
 
+L'usage de ressources externes ne devrait pas être nescéssaire, mais est autorisé. Penser dans ce cas à en procurer la source lors du rendu.
+
 ## Préparation :
 
 - Ouvrir le projet sous Unity (quelque soit la version)
@@ -35,4 +37,13 @@ Pour cela, vous pouvez par exemple :
 
 etc.
 
-Vous pouvez utiliser pour ceci les objets inutilisés de la scène, les sprites non utilisés, ou toutes autres ressources externes de votre choix (dans ce cas en procurer la source lors du rendu).
+Vous pouvez utiliser pour ceci les objets inutilisés de la scène et les sprites non utilisés présents dans le dossier *Sprites*.
+
+## Rendu :
+
+###Requis :
+- **Les sources** (Uniquement les dossier *Assets* et *ProjectSettings* du projet Unity suffisent).
+
+###Appréciable (peuvent être rendu après le temps imparti):
+- **Un build** pour windows en 64 bit.
+- Un gif ou video (tel que l'exemple ci-dessus) présentant les features du projet (Si besoin d'un logiciel pour générer des gif : http://www.screentogif.com/?l=fr_fr)
